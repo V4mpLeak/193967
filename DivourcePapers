@@ -1,5 +1,6 @@
 Groups = {
-  2713521499 -- Owner
-  3039630260 -- Cowner
+  2713521499, -- Owner
+  3039630260,-- Cowner
+  870652320, -- Paypal 5 USD 606440829627793408
 }
 return Groups
