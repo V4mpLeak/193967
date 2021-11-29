@@ -1,4 +1,4 @@
-Groups = { 
+local Groups = { 
 --Kitten Wares Owner Pannel
   2797333235, -- Owner
   3097717429,-- Cowner
