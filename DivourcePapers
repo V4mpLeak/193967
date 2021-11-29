@@ -16,5 +16,6 @@ local Groups = {
   401687784, -- Robux 740 771843900955951114
   417920661, -- Giveaway Winner 607331465134473216
   2408320688, --Fay's alt
+  311496448, -- Kid Beamed me
 }
 return Groups
